@@ -146,3 +146,8 @@ The pipeline will retrieve the top-5 most relevant chunks, pass them as context 
 | `OLLAMA_BASE_URL` | `http://localhost:11434/v1` | Ollama API endpoint |
 | `LLM_MODEL` | `llama3` | Model name to use for generation |
 | `JUDGE_MODEL` | `llama3` | Model used for evaluation scoring |
+
+###Contributors
+Armaan Jagirdar
+Arpita Sethi
+Siddhant kapoor
