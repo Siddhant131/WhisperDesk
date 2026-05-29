@@ -1,0 +1,8 @@
+pytorch
+huggingface
+evaluate
+peft
+transformers
+datasets    
+pandas
+jiwer

@@ -1,0 +1,8 @@
+sentence-transformers>=2.7.0
+faiss-cpu>=1.8.0
+openai>=1.30.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Llama3 runs locally via Ollama — install from https://ollama.com
+# Then: ollama pull llama3
