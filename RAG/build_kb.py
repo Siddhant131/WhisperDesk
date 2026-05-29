@@ -105,7 +105,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--csv",
         type=str,
-        default="RAG/call_recordings.csv",
+        default="./call_recordings.csv",
         help="Path to call_recordings CSV (default: ./call_recordings.csv)",
     )
     parser.add_argument(
