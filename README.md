@@ -147,7 +147,7 @@ The pipeline will retrieve the top-5 most relevant chunks, pass them as context 
 | `LLM_MODEL` | `llama3` | Model name to use for generation |
 | `JUDGE_MODEL` | `llama3` | Model used for evaluation scoring |
 
-###Contributors
+**Contributors**
 Armaan Jagirdar
 Arpita Sethi
 Siddhant kapoor
