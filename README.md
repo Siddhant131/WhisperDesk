@@ -148,6 +148,7 @@ The pipeline will retrieve the top-5 most relevant chunks, pass them as context 
 | `JUDGE_MODEL` | `llama3` | Model used for evaluation scoring |
 
 ## Contributors
--Armaan Jagirdar
--Arpita Sethi
--Siddhant kapoor
+
+- Armaan Jagirdar
+- Arpita Sethi
+- Siddhant kapoor
